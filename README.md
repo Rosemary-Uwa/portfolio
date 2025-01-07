@@ -16,3 +16,5 @@ Account and Admin Hesd
 - Enhanced reporting accuracy and timeliness by integrating Power BI dashboards.
 - Boosted efficiency and accuracy in financial reporting through advanced Excel solutions, such as lookup functions, pivot tables, and automation tools.
 - Provided actionable insights through trend and variance analyses, improving financial decision making
+  
+![WhatsApp Image 2024-12-20 at 6 39 36 PM](https://github.com/user-attachments/assets/23a0451f-53e2-46f7-9011-0c8ec579e3b7)
