@@ -5,7 +5,7 @@ B.sc. Accounting
 
 ### Work Experience
 Ozykay Investments Limited
-Account and Admin Hesd
+Account and Admin Head
 - Managed and analyzed financial transaction data, delivering detailed reports and facilitating senior management decision-making.
 - Conducted bank reconciliations, invoicing, data entry, and data analysis to identify trends, discrepancies, and opportunities for operational improvements.
 - Leveraged Excel to model financial scenarios and provide insights into company performance, increasing operational efficiency by 15%.
